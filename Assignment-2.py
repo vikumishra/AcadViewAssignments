@@ -5,12 +5,10 @@ print("This is Assignment2 submitted by Vivek Mishra")
 print("Acad" + "View")
 
 #Question 3
-x=10
-y=20.54
-z="Hello"
-print(x)
-print(y)
-print(z)
+x=input("Enter number1")
+y=input("Enter number2")
+z=input("Enter String")
+print(x,y,z)
 
 #Question 4
 print("Let\'s get started")
