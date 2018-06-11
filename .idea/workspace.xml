@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb6fa51c-f01d-4bea-be63-998a77b2fc10" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Assignment-4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assignment4-OptionalQuestion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assignment-5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,22 +14,9 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Assignment-4.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assignment-4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="581">
-              <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Assignment4-OptionalQuestion.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assignment4-OptionalQuestion.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-            </state>
-          </provider>
+      <file leaf-file-name="Assignment-5.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assignment-5.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -51,8 +37,9 @@
         <option value="$PROJECT_DIR$/Assignment-3.py" />
         <option value="$PROJECT_DIR$/Assignment-2.py" />
         <option value="$PROJECT_DIR$/optionalQsnAssignment-3.py" />
-        <option value="$PROJECT_DIR$/Assignment-4.py" />
         <option value="$PROJECT_DIR$/Assignment4-OptionalQuestion.py" />
+        <option value="$PROJECT_DIR$/Assignment-4.py" />
+        <option value="$PROJECT_DIR$/Assignment-5.py" />
       </list>
     </option>
   </component>
@@ -70,7 +57,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -82,6 +68,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="RunDashboard">
@@ -96,7 +83,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Assignment4-OptionalQuestion">
+  <component name="RunManager" selected="Python.Assignment-5">
     <configuration name="Assignment-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Acad_ViewAssignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -115,24 +102,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Assignment-3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Acad_ViewAssignments" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment-3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="Assignment-4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Acad_ViewAssignments" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,6 +115,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment-4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Assignment-5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Acad_ViewAssignments" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment-5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,18 +176,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.Assignment-2" />
-      <item itemvalue="Python.Assignment-3" />
       <item itemvalue="Python.optionalQsnAssignment-3" />
       <item itemvalue="Python.Assignment-4" />
       <item itemvalue="Python.Assignment4-OptionalQuestion" />
+      <item itemvalue="Python.Assignment-5" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Assignment4-OptionalQuestion" />
+        <item itemvalue="Python.Assignment-5" />
         <item itemvalue="Python.Assignment-4" />
+        <item itemvalue="Python.Assignment4-OptionalQuestion" />
         <item itemvalue="Python.optionalQsnAssignment-3" />
         <item itemvalue="Python.Assignment-2" />
-        <item itemvalue="Python.Assignment-3" />
       </list>
     </recent_temporary>
   </component>
@@ -219,18 +206,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="68" y="20" width="1400" height="776" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963924" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32880846" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32880846" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -244,6 +230,27 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assignment-5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment-4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1445">
+          <caret line="85" lean-forward="true" selection-start-line="85" selection-end-line="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment4-OptionalQuestion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="8" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/optionalQsnAssignment-3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -309,17 +316,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assignment4-OptionalQuestion.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
+        <state relative-caret-position="306">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assignment-4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="581">
-          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+          <caret line="85" selection-start-line="85" selection-end-line="85" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assignment-5.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
