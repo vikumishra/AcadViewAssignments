@@ -1,5 +1,4 @@
 dic={}
-li=[]
 name=["Vivek","Kunal","Rishav","Yogesh","Ajay","Prince","Abhimanyu","Raghav","Sanjeev","Rahul"]
 mrks=[98,76,89,24,55,90,100,54,19,23]
 for key in range(len(name)):
