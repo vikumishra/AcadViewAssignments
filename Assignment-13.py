@@ -46,15 +46,19 @@ except IndexError:
 #Question-6
 class AgeTooSmall(Exception):
     pass
-try:
-    a=int(input("Enter Age"))
+c=1
+while(c==1):
+    age = int(input("Enter Age"))
+    try:
+        if(age<18):
+            raise AgeTooSmall
 
-    if a<18:
-        raise AgeTooSmall
-except AgeTooSmall:
-    print("Age Too Small")
-else:
-    print(a)
+    except AgeTooSmall:
+        print("Sorry age is too small.. Please enter age greater then or equal to 18")
+    else:
+        print("Congratulations You entered valid age which is %d "%(age))
+        c=-1
+
 
 
 
